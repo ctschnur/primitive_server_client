@@ -1,0 +1,1 @@
+Simple Demo for TCP/IP network/interprocess communication with sockets, for linux and windows. It would be fun to implement a small chat. 
